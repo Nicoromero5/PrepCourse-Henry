@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba del Mod 2
+Proyecto para prueba de clonación de un repositorio
